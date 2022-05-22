@@ -1,0 +1,128 @@
+{
+  "1": {
+    "name": "Random UI",
+    "url": "https://www.jatodaro.com/random-ui",
+    "desc": "Automatically generate one of over 64,000 UI ideas.",
+    "category": ["Ideation"]
+  },
+  "2": {
+    "name": "Humane by Design",
+    "url": "https://humanebydesign.com/",
+    "desc": "A resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being.",
+    "category": ["Guide", "Accessibility"]
+  },
+  "3": {
+    "name": "Hero Patterns",
+    "url": "https://www.heropatterns.com/",
+    "desc": "A collection of repeatable SVG background patterns for you to use on your web projects.",
+    "category": ["Generator", "Pattern"]
+  },
+  "4": {
+    "name": "Simple Icons",
+    "url": "https://simpleicons.org/",
+    "desc": "Free SVG icons for popular brands.",
+    "category": ["Icon"]
+  },
+  "5": {
+    "name": "Checklist Design",
+    "url": "https://www.checklist.design/",
+    "desc": "A collection of the best design practices.",
+    "category": ["Guide"]
+  },
+    "6": {
+    "name": "Streamline",
+    "url": "https://www.streamlinehq.com/",
+    "desc": "100,000 icons, illustrations and emoji for all your projects. Customize them to your brand in seconds.",
+    "category": ["Icon", "2D Illustration"]
+  },
+    "7": {
+    "name": "drawSQL",
+    "url": "https://drawsql.app/",
+    "desc": "Work together to design, model and document the database schema of your app.",
+    "category": ["Database", "Tool"]
+  },
+    "8": {
+    "name": "Mockaroo",
+    "url": "https://www.mockaroo.com/",
+    "desc": "Need some mock data to test your app? Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.",
+    "category": ["Database", "Generator"]
+  },
+    "9": {
+    "name": "Scale by Flexiple",
+    "url": "https://2.flexiple.com/scale/home",
+    "desc": "Royalty free vector illustrations for commercial use.",
+    "category": ["2D Illustration"]
+  },
+    "10": {
+    "name": "Tint & Shade Generator",
+    "url": "https://maketintsandshades.com/",
+    "desc": "The purpose of this tool is to accurately produce tints (pure white added) and shades (pure black added) of a given hex color in 10% increments.",
+    "category": ["Generator", "Pattern"]
+  },
+    "11": {
+    "name": "Shopify Privacy Policy Generator",
+    "url": "https://www.shopify.ca/tools/policy-generator",
+    "desc": "Privacy policy template for your website.",
+    "category": ["Generator", "Business"]
+  },
+    "12": {
+    "name": "Shopify Terms and Conditions Generator",
+    "url": "https://www.shopify.ca/tools/policy-generator/terms-and-conditions",
+    "desc": "Custom terms of service for your website.",
+    "category": ["Generator", "Business"]
+  },
+    "13": {
+    "name": "Morflax Things",
+    "url": "https://things.morflax.com/",
+    "desc": "Generate 3D device mockup in a quick and engaging way.",
+    "category": ["Mockup"]
+  },
+    "14": {
+    "name": "Previewed",
+    "url": "https://previewed.app/",
+    "desc": "The simplest way to create device mockups.",
+    "category": ["Mockup"]
+  },
+    "15": {
+    "name": "ColorBox by Lift",
+    "url": "https://lyft-colorbox.herokuapp.com/",
+    "desc": "Comprehensive colour palette generator, now sponsored by Lyft.",
+    "category": ["Mockup"]
+  },
+    "16": {
+    "name": "Lordicon",
+    "url": "https://lordicon.com/",
+    "desc": "Lordicon is a powerful library of carefully crafted animated icons, ready to use in digital products, presentations, or videos!",
+    "category": ["Icon"]
+  },
+    "17": {
+    "name": "Lordicon",
+    "url": "https://spline.design/",
+    "desc": "Spline, a place to design and collaborate in 3D.",
+    "category": ["3D Illustration", "Tool"]
+  },
+    "18": {
+    "name": "The Bézier Game",
+    "url": "https://bezier.method.ac/",
+    "desc": "A game to help you master the pen tool.",
+    "category": ["Learning"]
+  },
+    "19": {
+    "name": "Kern Type",
+    "url": "https://type.method.ac/",
+    "desc": "A game to learn how to kern type.",
+    "category": ["Learning"]
+  },
+    "20": {
+    "name": "The Forage",
+    "url": "https://www.theforage.com/",
+    "desc": "Bite-sized 5-6 hour virtual work experience programs that give students a genuine career advantage with Fortune 500 companies.",
+    "category": ["Learning"]
+  },
+    "21": {
+    "name": "18F Accessibility Guide",
+    "url": "https://accessibility.18f.gov/checklist/",
+    "desc": "An official website of the GSA’s Technology Transformation Services.",
+    "category": ["Guide", "Accessibility"]
+  }
+}
